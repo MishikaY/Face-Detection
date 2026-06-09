@@ -1,0 +1,4 @@
+path: /Custom_Data
+val: images/train
+train: images/train
+names: ['face']

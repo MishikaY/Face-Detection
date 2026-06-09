@@ -1,0 +1,4 @@
+path: /kaggle/input/face-data/Custom_Data
+val: images
+train: images
+names: ["face"]
